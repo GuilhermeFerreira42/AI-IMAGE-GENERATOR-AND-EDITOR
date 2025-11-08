@@ -1,0 +1,5 @@
+{
+  "name": "AI IMAGE GENERATOR AND EDITOR",
+  "description": "A modern, dark-themed web application that uses a chatbot layout to interact with the Google Gemini API (gemini-2.5-flash-image model) for text-to-image generation and multimodal image editing.",
+  "requestFramePermissions": []
+}
